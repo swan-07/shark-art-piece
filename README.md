@@ -1,5 +1,5 @@
-# shark-art-piece
-documenting process of completing shark painting. 
+# shark!
+documenting process of completing shark painting. acrylic on canvas
 
 I was inspired when a friend gave me a 3d shark:
 ![image](https://github.com/swan-07/shark-art-piece/assets/100081902/0648009a-366d-4cbf-955b-a9035ac84a7c)
